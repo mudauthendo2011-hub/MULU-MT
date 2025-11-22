@@ -1,9 +1,9 @@
 ## 👑 MULU-MT WhatsApp Bot
 
-🌌 Official Release: 2026 — The Royal Upgrade Begins
+🌌 Official Release: 2026  The Royal Upgrade Begins
 
 Welcome to MULU-MT, the next-generation Royal WhatsApp bot built for power, speed, and a smooth user experience.
-Designed with modern features, smart systems, and a clean Royal identity — MULU-MT will bring a whole new level to WhatsApp communities in 2026. ✨
+Designed with modern features, smart systems, and a clean Royal identity  MULU-MT will bring a whole new level to WhatsApp communities in 2026. ✨
 
 
 ---
@@ -44,7 +44,7 @@ Clean and organized menu
 
 Anti-spam controls
 
-Kick/ban tools (owner-only)
+unban/ban tools (owner-only)
 
 Admin utilities
 
@@ -99,8 +99,7 @@ More updates, features, and previews will be posted as development continues.
 
 # 👤 Creator
 
-Thendo
-🙃🩵JUSTICE BY JUNIOR🩵🙃
+Thendo (Royal boy) 
 Creator of the Royal Bot Universe
 Dreaming big. Building bigger. 👑✨
 
@@ -109,7 +108,7 @@ Dreaming big. Building bigger. 👑✨
 
 # 🌟 The Vision
 
-MULU-MT aims to become one of the cleanest and most reliable WhatsApp bots available —
+MULU-MT aims to become one of the cleanest and most reliable WhatsApp bots available 
 bringing fun, control, and a Royal touch to every chat it enters.
 
 2026 will be the rise of something powerful.
